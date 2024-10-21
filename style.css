@@ -48,6 +48,10 @@ body{
     cursor: default;
 }
 
+.home-content h1{
+    padding-top: 133px;
+}
+
 .navbar a{
     font-size: 1.5rem;
     font-weight: 700;
@@ -72,7 +76,7 @@ body{
 }
 
 section{
-    min-height: 100vh;
+    min-height: 88vh;
     padding: 10rem 9% 2rem;
 }
 
@@ -108,8 +112,9 @@ section{
 
 
 .home-content{
-    max-width: 60rem;
+    max-width:60rem;
 }
+
 
 
 .home-content h1{
@@ -384,6 +389,7 @@ span{
 
 .skills-row .skills-column {
     flex: 1 1 30rem;
+    padding-top: 55px;
 
 }
 
